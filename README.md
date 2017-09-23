@@ -1,3 +1,9 @@
+Moved to wame/GeneratorBundle
+=====================
+
+This repo will be removed. Content has been moved over to https://github.com/wame/GeneratorBundle
+
+
 WameSensioGeneratorBundle
 =====================
 
